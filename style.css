@@ -36,12 +36,12 @@ html,body{
   padding-bottom: 1rem;
 }
 .btn-primary{
-  background-color: #6648b1;
-  border: 1px solid #563d7c;
+  background-color: #b14848;
+  border: 1px solid #ff0000;
 }
 .btn-primary{
-  background-color: #563d7c;
-  border: 1px solid #563d7c;
+  background-color: #770000;
+  border: 1px solid #ff0000;
 }
 .jumbotron{
 padding: .75rem;
@@ -58,7 +58,7 @@ font-size: 25px;
   padding-top: 2rem;
 }
 .welcome hr{
-  border-top: 2px solid #b4b4b4;
+  border-top: 2px solid #ff0000;
   width: 95%;
   margin-top: .3rem;
   margin-bottom: 1rem;
